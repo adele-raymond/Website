@@ -1,0 +1,10 @@
+
+.film {
+	width: 300px;
+    height: 350px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0Px;
+
+}
